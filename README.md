@@ -83,20 +83,20 @@ https://docs.python.org/release/3.12.0/
 
 **Live MLOPS Playlist** : [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/features/actions) [![YouTube](https://www.youtube.com/watch?v=jpU8F0M5axo&list=PLmQAMKHKeLZ9iaLWBULDE_hiPtOiHiDz0)
 1. Github Action CI/CD pipelines (3 hr vid) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/features/actions) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=p7V4Aa7qEpw&list=PLZoTAELRMXVOjQdyqlCmOtq1nZnSsWvag&index=3)
-2. Circle CI () [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://circleci.com/docs/)
+2. Circle CI [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://circleci.com/docs/)
 3. Kubeflow [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.kubeflow.org/docs/)
-4. MLflow [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://mlflow.org/docs/latest/index.html) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=8vmKtS8W7IQ](https://www.youtube.com/watch?v=pxk1Fr33-L4))
+4. MLflow (1 video) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://mlflow.org/docs/latest/index.html) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=8vmKtS8W7IQ](https://www.youtube.com/watch?v=pxk1Fr33-L4))
 5. Deployment Technqiues In AWS,AZURE, GCP,Dockers And Kubernetes 
-6. Evidently AI [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.evidentlyai.com/) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=cgc3dSEAel0)
+6. Evidently AI (1 video) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.evidentlyai.com/) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=cgc3dSEAel0)
 7. Grafana(Monitoring) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://grafana.com/)
 8. AirFlow [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://airflow.apache.org/)
-9. BentoML [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=i_FtfdOKa2M)
-10. AWS Sagemaker [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=Le-A72NjaWs&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=16)
-11. DVC [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://dvc.org/)[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=mHQPzVse2oA)
-12. Dockers [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=8vmKtS8W7IQ)
+9. BentoML (1 video) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=i_FtfdOKa2M)
+10. AWS Sagemaker (1 video)  [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=Le-A72NjaWs&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=16)
+11. DVC (1 video) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://dvc.org/)[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=mHQPzVse2oA)
+12. Dockers (1 video) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=8vmKtS8W7IQ)
 
 #### End To End ML,DL,NLP Projects With MLOPS With Deployment And Open Source Tools
-1. End To End ML Projects Playlist In English: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=1)
+1. End To End ML Projects Playlist In English (21 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=1)
 2. End To End ML Playlist In Hindi: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=NuwUnRpxq2c&list=PLTDARY42LDV7jzL_f68SY-eOQ9tY2lYvR)
 
 ### Machine Learning, Deep Learning, and NLP Projects
@@ -123,7 +123,7 @@ https://docs.python.org/release/3.12.0/
 
 
 ### 8. Detailed Generative AI And LLM Playlist
-1. OPENAI Playlist English: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=CbpsDMwFG2g&list=PLZoTAELRMXVMTWGW9iS45ZTcMsntos6VO)
+1. OPENAI Playlist Englis : [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=CbpsDMwFG2g&list=PLZoTAELRMXVMTWGW9iS45ZTcMsntos6VO)
 2. Langchain Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=_FpT1cwcSLg&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
 3. Google Gemini Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=CC6qMpqgUMU&list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb)
 4. Live Generative AI Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=ajWheP8ZD70&list=PLmQAMKHKeLZ-iTT-E2kK9uePrJ1Xua9VL)
