@@ -7,9 +7,7 @@
 
 ## 1. Python Programming Language -1 Month
 1. Complete Python Playlist In English (58 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
-
 2. Complete Python Playlist In Hindi:   [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v)
-
 3. Flask Playlist (10 videos):    [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc)
 
 ##### Final Goal Outcome:
@@ -17,8 +15,7 @@
 2. Knowledge of performing EDA,Feature Engineering and creating visualization charts using python 
 3. Atleast Make some python projects using Frameworks such as Flask with deployment Eg: Web Scrapping Projects  
 
-##### What's New In Python 3.12.0
-https://docs.python.org/release/3.12.0/
+##### What's New In Python 3.12.0: https://docs.python.org/release/3.12.0/
 
 ## 2. Statistics
 1. English: 7 Days Statistics Live Session : [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
@@ -27,18 +24,18 @@ https://docs.python.org/release/3.12.0/
 
 3. Stats Hindi Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ)
 
-#### EDA
+##### EDA
 1. EDA Live (5 videos) :[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
 
 2. EDA Detailed Playlist (15 videos):[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=ioN1jcWxbv8&list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9)
 
-#### Feature Engineering
+##### Feature Engineering
 
 1. Complete Detailed Feature Engineering (16 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=6WDFfaYtN6s&list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN)
 
 2. Live EDA Feature Engineering Playlist (5 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
 
-#### Final Goal Outcome: 
+##### Final Goal Outcome: 
 1. Techniques to Perform Statistical Analysis
 2. Familiar with all concepts which will be important for Machine Learning
 
