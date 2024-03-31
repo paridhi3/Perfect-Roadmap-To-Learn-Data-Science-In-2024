@@ -7,15 +7,13 @@
 
 ## 1. Python Programming Language -1 Month
 #### Python:
-![python-logo-master-v3-TM-flattened](https://user-images.githubusercontent.com/20041231/211717885-0b1e049b-f5b3-457d-ba7a-9345ec3aa39c.png)
-
 1. Complete Python Playlist In English (58 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
 
 2. Complete Python Playlist In Hindi:   [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v)
 
 3. Flask Playlist (10 videos):    [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc)
 
-### Final Goal Outcome:
+##### Final Goal Outcome:
 1. Basic To Intermediate Python With various knowledge of various Data structures like numpy,pandas,matplotlib and many more.
 2. Knowledge of performing EDA,Feature Engineering and creating visualization charts using python 
 3. Atleast Make some python projects using Frameworks such as Flask with deployment Eg: Web Scrapping Projects  
