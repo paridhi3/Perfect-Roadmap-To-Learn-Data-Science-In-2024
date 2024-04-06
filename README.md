@@ -20,20 +20,16 @@
 
 ## 2. Statistics
 1. English: 7 Days Statistics Live Session : [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
-
 2. Statistics in ML(43 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
-
 3. Stats Hindi Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ)
 
 ##### EDA
 1. EDA Live (5 videos) :[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
-
 2. EDA Detailed Playlist (15 videos):[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=ioN1jcWxbv8&list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9)
 
 ##### Feature Engineering
 
 1. Complete Detailed Feature Engineering (16 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=6WDFfaYtN6s&list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN)
-
 2. Live EDA Feature Engineering Playlist (5 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
 
 ##### Final Goal Outcome: 
@@ -52,23 +48,19 @@
 
 ## 5. Deep Learning Playlist:
 1. Live Deep Learning Playlist (5 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns)
-
 2. Complete Deep Learning Playlist (88 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=YFNKnUhm_-s&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
 3. Deep Learning Playlist In Hindi: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=SlbbvhO3jKY&list=PLTDARY42LDV4Ic6ZPHIh_CdlPwkKDJmpk)
 
 ## 6. NLP Playlist:
 1. Live NLP Playlist (18 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
-
 2. Complete NLP Playlist (31 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
 
 ## 7. Important Frameworks for Production Deployments
-
 - Flask Detailed Playlist In English (10 videos):[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc)
 - Flask One Shot Hindi: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=KF-rDqQfqz0)
 - Gradio Framework (1 video): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=wruyZWre2sM)
 - BentoML (1 video): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=i_FtfdOKa2M)
 - MLflow and Dagshub (1 video): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=qdcHHrsXA48)
-
 
 ## 8. MLOPS (Machine Learning Operation)
 **Live MLOPS Playlist** : [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/features/actions) [![YouTube](https://www.youtube.com/watch?v=jpU8F0M5axo&list=PLmQAMKHKeLZ9iaLWBULDE_hiPtOiHiDz0)
@@ -115,8 +107,3 @@ iNeuron Internships: https://internship.ineuron.ai/
 
 ## 12. Data Science Tracker Sheet For Learning
 https://drive.google.com/file/d/18doA_wMja2nAawcE6imIcfnEMf-Pir2n/view
-
-
-
-
-
