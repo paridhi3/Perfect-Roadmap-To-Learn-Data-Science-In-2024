@@ -97,8 +97,10 @@
 #### Use Of Chatgpt Or Google Bard Extensively 
 #### Roadmap To Generative AI [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)
 
-## 11. Internships:
+## 11. Data Science interview questions [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-&si=FnzzCeNW2Aj6TK6V)
+
+## 12. Internships:
 iNeuron Internships: https://internship.ineuron.ai/
 
-## 12. Data Science Tracker Sheet For Learning
+## 13. Data Science Tracker Sheet For Learning
 https://drive.google.com/file/d/18doA_wMja2nAawcE6imIcfnEMf-Pir2n/view
