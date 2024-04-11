@@ -8,8 +8,6 @@
 ## 1. Python Programming Language -1 Month
 1. Complete Python Playlist In English (58 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
 2. Complete Python Playlist In Hindi:   [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v)
-3. Flask Playlist (10 videos):    [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc)
-4. Fast API Tutorials (2 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=WU65u9d-97c&list=PLZoTAELRMXVPgsojPOHF9i0u2L83-m9P7)
 
 ##### What's New In Python 3.12.0: https://docs.python.org/release/3.12.0/
 
@@ -53,6 +51,7 @@
 ## 7. Important Frameworks for Production Deployments
 - Flask Detailed Playlist In English (10 videos):[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc)
 - Flask One Shot Hindi: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=KF-rDqQfqz0)
+- Fast API Tutorials (2 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=WU65u9d-97c&list=PLZoTAELRMXVPgsojPOHF9i0u2L83-m9P7)
 - Gradio Framework (1 video): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=wruyZWre2sM)
 - BentoML (1 video): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=i_FtfdOKa2M)
 - MLflow and Dagshub (1 video): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=qdcHHrsXA48)
