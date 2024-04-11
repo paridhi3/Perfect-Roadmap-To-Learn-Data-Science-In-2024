@@ -11,11 +11,6 @@
 3. Flask Playlist (10 videos):    [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc)
 4. Fast API Tutorials (2 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=WU65u9d-97c&list=PLZoTAELRMXVPgsojPOHF9i0u2L83-m9P7)
 
-##### Final Goal Outcome:
-1. Basic To Intermediate Python With various knowledge of various Data structures like numpy,pandas,matplotlib and many more.
-2. Knowledge of performing EDA,Feature Engineering and creating visualization charts using python 
-3. Atleast Make some python projects using Frameworks such as Flask with deployment Eg: Web Scrapping Projects  
-
 ##### What's New In Python 3.12.0: https://docs.python.org/release/3.12.0/
 
 ## 2. Statistics
