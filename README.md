@@ -97,7 +97,7 @@
 #### Use Of Chatgpt Or Google Bard Extensively 
 #### Roadmap To Generative AI [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)
 
-## 11. Data Science interview questions [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-&si=FnzzCeNW2Aj6TK6V)
+## 11. Data Science interview questions (76 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-&si=FnzzCeNW2Aj6TK6V)
 
 ## 12. Internships:
 iNeuron Internships: https://internship.ineuron.ai/
