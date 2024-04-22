@@ -5,6 +5,18 @@
 
 ![Capture](https://user-images.githubusercontent.com/20041231/211718788-8d71ca8c-430a-4dbe-98f2-c66da015ac6e.JPG)
 
+Stats
+Feature engg
+ML Live
+DL live
+Flask api
+MLOps
+Projects
+
+GenAI
+NLP
+Interview Questions
+
 ## 1. Python Programming Language -1 Month
 1. Complete Python Playlist In English (58 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
 2. Complete Python Playlist In Hindi:   [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v)
