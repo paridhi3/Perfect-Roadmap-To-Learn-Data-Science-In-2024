@@ -114,5 +114,5 @@ Roadmap To Generative AI: https://github.com/krishnaik06/Roadmap-To-Learn-Genera
 
 ## 11. Data Science interview questions (76 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-&si=FnzzCeNW2Aj6TK6V)
 
-## 13. Data Science Tracker Sheet For Learning
+## 12. Data Science Tracker Sheet For Learning:
 https://drive.google.com/file/d/18doA_wMja2nAawcE6imIcfnEMf-Pir2n/view
