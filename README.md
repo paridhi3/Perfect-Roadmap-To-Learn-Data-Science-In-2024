@@ -107,10 +107,10 @@ Interview Questions<br>
 5. Finetuning LLM (6 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3)
 6. AWS Bedrock (2 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVP8-wzKPtrRST3jNCprvMZj)
 7. Llamindex (3 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVNOWh1SDXt5NFujQMOt-CWy)
-8. Google Gemini (12 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb)
+8. Google Gemini (12 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb)<br>
 Open Source Contribution [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)<br>
 Use Of Chatgpt Or Google Bard Extensively <br>
-Roadmap To Generative AI [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)<br>
+Roadmap To Generative AI: https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024 <br>
 
 ## 11. Data Science interview questions (76 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-&si=FnzzCeNW2Aj6TK6V)
 
