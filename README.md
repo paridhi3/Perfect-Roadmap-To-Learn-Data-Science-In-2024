@@ -100,13 +100,17 @@ Interview Questions<br>
 9. **Kidney Disease Classification** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=86BKEv0X2xU)
 
 ## 10. Detailed Generative AI And LLM Playlist
-1. OPENAI Playlist Englis : [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=CbpsDMwFG2g&list=PLZoTAELRMXVMTWGW9iS45ZTcMsntos6VO)
-2. Langchain Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=_FpT1cwcSLg&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
-3. Google Gemini Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=CC6qMpqgUMU&list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb)
-4. Live Generative AI Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=ajWheP8ZD70&list=PLmQAMKHKeLZ-iTT-E2kK9uePrJ1Xua9VL)
-#### Open Source Contribution [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)
-#### Use Of Chatgpt Or Google Bard Extensively 
-#### Roadmap To Generative AI [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)
+1. Live Generative AI Playlist (iNeuron course- 17 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=ajWheP8ZD70&list=PLmQAMKHKeLZ-iTT-E2kK9uePrJ1Xua9VL)
+2. OPENAI Playlist English : [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=CbpsDMwFG2g&list=PLZoTAELRMXVMTWGW9iS45ZTcMsntos6VO)
+3. Updated Langchain (tutorials) (9 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ)
+4. LangChain (tuts+projects) (17 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
+5. Finetuning LLM (6 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3)
+6. AWS Bedrock (2 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVP8-wzKPtrRST3jNCprvMZj)
+7. Llamindex (3 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVNOWh1SDXt5NFujQMOt-CWy)
+8. Google Gemini (12 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb)
+Open Source Contribution [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)<br>
+Use Of Chatgpt Or Google Bard Extensively <br>
+Roadmap To Generative AI [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)<br>
 
 ## 11. Data Science interview questions (76 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-&si=FnzzCeNW2Aj6TK6V)
 
