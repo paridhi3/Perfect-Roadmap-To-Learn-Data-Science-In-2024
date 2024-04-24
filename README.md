@@ -37,10 +37,6 @@ Interview Questions<br>
 1. Complete Detailed Feature Engineering (16 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=6WDFfaYtN6s&list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN)
 2. Live EDA Feature Engineering Playlist (5 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
 
-##### Final Goal Outcome: 
-1. Techniques to Perform Statistical Analysis
-2. Familiar with all concepts which will be important for Machine Learning
-
 ## 3. Databases
 1. Mongodb (7 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I)
 2. Mysql (11 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl)
