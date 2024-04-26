@@ -103,9 +103,6 @@ Interview Questions<br>
 7. Llamindex (3 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVNOWh1SDXt5NFujQMOt-CWy)
 8. Google Gemini (12 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb)
 9. Complete Langchain Course For Generative AI In 3 Hours: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=swCPic00c30&ab_channel=KrishNaik)<br><br>
-Open Source Contribution: https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials<br>
-Use Of Chatgpt Or Google Bard Extensively <br>
-Roadmap To Generative AI: https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024 <br>
 
 ## 11. Data Science interview questions (76 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-&si=FnzzCeNW2Aj6TK6V)
 
