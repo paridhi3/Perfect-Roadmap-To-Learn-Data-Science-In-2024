@@ -24,7 +24,7 @@ Interview Questions<br>
 ##### What's New In Python 3.12.0: https://docs.python.org/release/3.12.0/
 
 ## 2. Statistics
-1. English: 7 Days Statistics Live Session : [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
+1. English: 7 Days Statistics Live Session : [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
 2. Statistics in ML(43 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
 3. Stats Hindi Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ)
 
