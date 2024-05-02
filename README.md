@@ -5,7 +5,7 @@
 
 ![Capture](https://user-images.githubusercontent.com/20041231/211718788-8d71ca8c-430a-4dbe-98f2-c66da015ac6e.JPG)
 
-Stats<br>
+Stats - DONE<br>
 Feature engg<br>
 ML Live<br>
 DL live<br>
