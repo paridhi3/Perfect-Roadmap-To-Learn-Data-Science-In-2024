@@ -41,7 +41,7 @@ Interview Questions<br>
 3. Apache Cassandra Database: [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://cassandra.apache.org/_/index.html )
 
 ## 4. Machine Learning
-1. Live ML Playlist (10 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=z8sxaUw_f-M&list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz)
+1. Live ML Playlist (10 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc&si=l0Hi2YEjGuuMslLn)
 2. Complete ML Playlist (153 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
 3. Hindi: ML Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ)
 
