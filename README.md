@@ -64,6 +64,7 @@ Interview Questions<br>
 
 ## 8. MLOPS (Machine Learning Operation)
 **Live MLOPS Playlist** : [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVOk1pRcOCaG5xtXxgMalpIe)
+Git and GitHub for Beginners (freeCodeCamp): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/RGOj5yH7evk?si=saMXH-UOit_qFq6a)
 1. Github Action CI/CD pipelines (3 hr vid) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/features/actions) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=p7V4Aa7qEpw&list=PLZoTAELRMXVOjQdyqlCmOtq1nZnSsWvag&index=3)
 2. Circle CI [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://circleci.com/docs/)
 3. Kubeflow [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.kubeflow.org/docs/)
@@ -109,7 +110,6 @@ Interview Questions<br>
 ## 12. Data Science Tracker Sheet For Learning:
 https://drive.google.com/file/d/18doA_wMja2nAawcE6imIcfnEMf-Pir2n/view
 
-## 13. Github
-1. Git and GitHub for Beginners (freeCodeCamp): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/RGOj5yH7evk?si=saMXH-UOit_qFq6a)
-2. Amazing Guidelines For Creating GitHub Profiles For Data Scientist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/HZFDFWShk4I?si=pKJO0yMrLbV3yhyr)
-3. What Should Be A Proper Structure Of Your Data Science Projects In Github?: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/QAVrSm-NiBo?si=He7YDy86pn2miIwt)
+## 13. Github Profile
+1. Amazing Guidelines For Creating GitHub Profiles For Data Scientist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/HZFDFWShk4I?si=pKJO0yMrLbV3yhyr)
+2. What Should Be A Proper Structure Of Your Data Science Projects In Github?: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/QAVrSm-NiBo?si=He7YDy86pn2miIwt)
