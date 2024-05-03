@@ -54,7 +54,8 @@ Interview Questions<br>
 1. Live NLP Playlist (18 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
 2. Complete NLP Playlist (31 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
 
-## 7. Important Frameworks for Production Deployments
+## 7. Important Frameworks for Production Deployments<br>
+Different Ways Of Creating Python Environment In Data Science Projects- Conda,Virtualenv,Python: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/bf7pCxj6mEg?si=Vv8WWFsvqSKFXy8Z)
 - Flask Detailed Playlist In English (10 videos):[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc)
 - Flask One Shot Hindi: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=KF-rDqQfqz0)
 - Fast API Tutorials (2 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=WU65u9d-97c&list=PLZoTAELRMXVPgsojPOHF9i0u2L83-m9P7)
