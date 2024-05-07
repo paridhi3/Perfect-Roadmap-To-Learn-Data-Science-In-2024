@@ -5,18 +5,6 @@
 
 ![Capture](https://user-images.githubusercontent.com/20041231/211718788-8d71ca8c-430a-4dbe-98f2-c66da015ac6e.JPG)
 
-Stats - DONE<br>
-Feature engg<br>
-ML Live<br>
-DL live<br>
-Flask api<br>
-MLOps<br>
-Projects<br>
-
-GenAI<br>
-NLP<br>
-Interview Questions<br>
-
 ## 1. Python Programming Language -1 Month
 1. Complete Python Playlist In English (58 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
 2. Complete Python Playlist In Hindi:   [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v)
@@ -24,7 +12,7 @@ Interview Questions<br>
 ##### What's New In Python 3.12.0: https://docs.python.org/release/3.12.0/
 
 ## 2. Statistics
-1. English: 7 Days Statistics Live Session : [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
+1. English: 7 Days Statistics Live Session : [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay) - **DONE**
 2. Statistics in ML(43 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
 3. Stats Hindi Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ)
 
