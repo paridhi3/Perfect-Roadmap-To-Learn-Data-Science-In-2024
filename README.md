@@ -21,7 +21,7 @@
 
 ##### EDA
 1. EDA Live (5 videos) :[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
-2. EDA Detailed Playlist (15 videos):[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=ioN1jcWxbv8&list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9)
+2. EDA Detailed Playlist (15 videos):[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9&si=Pyxh9jkiDGUK4FOi)
 
 ## 3. Databases
 1. Mongodb (7 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I)
