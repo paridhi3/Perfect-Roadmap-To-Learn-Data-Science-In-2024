@@ -71,7 +71,18 @@ Git and GitHub for Beginners (freeCodeCamp): [![YouTube](https://img.shields.io/
 1. End To End ML Projects Playlist In English (21 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=1)
 2. End To End ML Playlist In Hindi: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=NuwUnRpxq2c&list=PLTDARY42LDV7jzL_f68SY-eOQ9tY2lYvR)
 
-## 9. Machine Learning, Deep Learning, and NLP Projects
+## 9. Detailed Generative AI And LLM Playlist
+1. Live Generative AI Playlist (iNeuron course- 17 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=ajWheP8ZD70&list=PLmQAMKHKeLZ-iTT-E2kK9uePrJ1Xua9VL)
+2. OPENAI Playlist English : [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=CbpsDMwFG2g&list=PLZoTAELRMXVMTWGW9iS45ZTcMsntos6VO)
+3. Updated Langchain (tutorials) (9 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ)
+4. LangChain (tuts+projects) (17 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
+5. Finetuning LLM (6 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3)
+6. AWS Bedrock (2 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVP8-wzKPtrRST3jNCprvMZj)
+7. Llamindex (3 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVNOWh1SDXt5NFujQMOt-CWy)
+8. Google Gemini (12 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb)
+9. Complete Langchain Course For Generative AI In 3 Hours: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=swCPic00c30&ab_channel=KrishNaik)<br><br>
+
+## 10. Machine Learning, Deep Learning, and NLP Projects
 1. **First End-To-End ML Project for Starters [Student Performance Prediction]**  [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=Rv6UFGNmNZg&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=2)
 2. **End-to-End NLP Project with GitHub Action, MLOps, and Deployment [Text Summarization]**  [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=p7V4Aa7qEpw&list=PLZoTAELRMXVOjQdyqlCmOtq1nZnSsWvag&index=3)
 3. **End-to-End ML Project Implementation Using AWS Sagemaker** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=Le-A72NjaWs&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=16)
@@ -83,17 +94,6 @@ Git and GitHub for Beginners (freeCodeCamp): [![YouTube](https://img.shields.io/
 7. **End-to-End ML Project Implementation with Dockers, GitHub Action** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=MJ1vWb1rGwM)
 8. **Langchain Open AI Project** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=_FpT1cwcSLg&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
 9. **Kidney Disease Classification** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=86BKEv0X2xU)
-
-## 10. Detailed Generative AI And LLM Playlist
-1. Live Generative AI Playlist (iNeuron course- 17 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=ajWheP8ZD70&list=PLmQAMKHKeLZ-iTT-E2kK9uePrJ1Xua9VL)
-2. OPENAI Playlist English : [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=CbpsDMwFG2g&list=PLZoTAELRMXVMTWGW9iS45ZTcMsntos6VO)
-3. Updated Langchain (tutorials) (9 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ)
-4. LangChain (tuts+projects) (17 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
-5. Finetuning LLM (6 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3)
-6. AWS Bedrock (2 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVP8-wzKPtrRST3jNCprvMZj)
-7. Llamindex (3 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVNOWh1SDXt5NFujQMOt-CWy)
-8. Google Gemini (12 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb)
-9. Complete Langchain Course For Generative AI In 3 Hours: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=swCPic00c30&ab_channel=KrishNaik)<br><br>
 
 ## 11. Data Science interview questions (76 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-&si=FnzzCeNW2Aj6TK6V)
 
