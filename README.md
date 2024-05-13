@@ -73,6 +73,7 @@ Git and GitHub for Beginners (freeCodeCamp): [![YouTube](https://img.shields.io/
 2. End To End ML Playlist In Hindi: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=NuwUnRpxq2c&list=PLTDARY42LDV7jzL_f68SY-eOQ9tY2lYvR)
 
 ## 9. Detailed Generative AI And LLM Playlist
+- Generative AI On AWS: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVP5zpBfH7pab4aB1LbmCM1z&si=GT8AvvgWXObKnSNZ) 
 - Finetuning LLM: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3&si=zGpRyC02rGoG6_SY)
 - Live Generative AI Playlist (iNeuron course- 17 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=ajWheP8ZD70&list=PLmQAMKHKeLZ-iTT-E2kK9uePrJ1Xua9VL)
 - OPENAI Playlist English : [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=CbpsDMwFG2g&list=PLZoTAELRMXVMTWGW9iS45ZTcMsntos6VO)
