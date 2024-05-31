@@ -24,7 +24,6 @@ Companies:
 
 ##### Feature Engineering
 1. Complete Detailed Feature Engineering (16 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN)
-2. Handle Categorical Features Many Categories(Count/Frequency Encoding): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/MPnNC6kkNC4?si=eQRrMm6jfxz7KS-I) https://github.com/krishnaik06/Complete-Feature-Engineering/
 
 ##### EDA
 1. EDA Live (5 videos) :[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
