@@ -37,7 +37,7 @@ Companies:
 
 ## 4. Machine Learning
 1. Machine Learning 2024 (17 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVPMbdMTjwolBI0cJcvASePD&si=kKMDj5-e7_9ID8VI) 
-2. Live ML Playlist (10 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc&si=l0Hi2YEjGuuMslLn)
+2. Live ML Playlist (10 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz)
 3. Complete ML Playlist (153 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
 4. Hindi: ML Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ)
 
