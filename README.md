@@ -65,7 +65,7 @@ Git and GitHub for Beginners (freeCodeCamp): [![YouTube](https://img.shields.io/
 1. Github Action CI/CD pipelines (3 hr vid) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/features/actions) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=p7V4Aa7qEpw&list=PLZoTAELRMXVOjQdyqlCmOtq1nZnSsWvag&index=3)
 2. Circle CI [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://circleci.com/docs/)
 3. Kubeflow [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.kubeflow.org/docs/)
-4. MLflow (1 video) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://mlflow.org/docs/latest/index.html) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=8vmKtS8W7IQ](https://www.youtube.com/watch?v=pxk1Fr33-L4))
+4. MLflow (1 video) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://mlflow.org/docs/latest/index.html)
 5. Deployment Technqiues In AWS,AZURE, GCP,Dockers And Kubernetes 
 6. Evidently AI (1 video) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.evidentlyai.com/) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=cgc3dSEAel0)
 7. Grafana(Monitoring) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://grafana.com/)
