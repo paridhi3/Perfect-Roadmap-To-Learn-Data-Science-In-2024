@@ -60,8 +60,7 @@ Different Ways Of Creating Python Environment In Data Science Projects- Conda,Vi
 - MLflow and Dagshub (1 video): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=qdcHHrsXA48)
 
 ## 8. MLOPS (Machine Learning Operation)
-**Live MLOPS Playlist** : [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVOk1pRcOCaG5xtXxgMalpIe)<br>
-Git and GitHub for Beginners (freeCodeCamp): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/RGOj5yH7evk?si=saMXH-UOit_qFq6a)
+**Live MLOPS Playlist** : [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVOk1pRcOCaG5xtXxgMalpIe)
 1. Github Action CI/CD pipelines (3 hr vid) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/features/actions) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=p7V4Aa7qEpw&list=PLZoTAELRMXVOjQdyqlCmOtq1nZnSsWvag&index=3)
 2. Circle CI [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://circleci.com/docs/)
 3. Kubeflow [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.kubeflow.org/docs/)
@@ -74,9 +73,6 @@ Git and GitHub for Beginners (freeCodeCamp): [![YouTube](https://img.shields.io/
 10. AWS Sagemaker (1 video)  [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=Le-A72NjaWs&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=16)
 11. DVC (1 video) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://dvc.org/)[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=mHQPzVse2oA)
 12. Dockers (1 video) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=8vmKtS8W7IQ)
-#### End To End ML,DL,NLP Projects With MLOPS With Deployment And Open Source Tools
-1. End To End ML Projects Playlist In English (21 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=1)
-2. End To End ML Playlist In Hindi: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=NuwUnRpxq2c&list=PLTDARY42LDV7jzL_f68SY-eOQ9tY2lYvR)
 
 ## 9. Detailed Generative AI And LLM Playlist
 - Generative AI On AWS: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVP5zpBfH7pab4aB1LbmCM1z&si=GT8AvvgWXObKnSNZ) 
@@ -91,23 +87,13 @@ Git and GitHub for Beginners (freeCodeCamp): [![YouTube](https://img.shields.io/
 - Complete Langchain Course For Generative AI In 3 Hours: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=swCPic00c30&ab_channel=KrishNaik)<br><br>
 
 ## 10. Machine Learning, Deep Learning, and NLP Projects
-1. **First End-To-End ML Project for Starters [Student Performance Prediction]**  [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=Rv6UFGNmNZg&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=2)
-2. **End-to-End NLP Project with GitHub Action, MLOps, and Deployment [Text Summarization]**  [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=p7V4Aa7qEpw&list=PLZoTAELRMXVOjQdyqlCmOtq1nZnSsWvag&index=3)
-3. **End-to-End ML Project Implementation Using AWS Sagemaker** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=Le-A72NjaWs&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=16)
-4. **Computer Vision: End-to-End Cell Segmentation Using Yolo V8**
-    - (Part 1) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=r8l31swbU1g&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=17) 
-    - (Part 2) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=eiK-6ZhphiA&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=18) 
-5. **Deep Learning Project with Deployment, MLOps, and DVC [Chicken Disease Classification]** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=p1bfK8ZJgkE&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=14)
-6. **End-to-End ML Project with MLFLOW** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=pxk1Fr33-L4)
-7. **End-to-End ML Project Implementation with Dockers, GitHub Action** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=MJ1vWb1rGwM)
-8. **Langchain Open AI Project** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=_FpT1cwcSLg&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
-9. **Kidney Disease Classification** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=86BKEv0X2xU)
+**End To End ML Projects Playlist In English (21 videos):** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=1)
+1. **End-to-End ML Project Implementation with Dockers, GitHub Action** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=MJ1vWb1rGwM)
+2. **Langchain Open AI Project** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=_FpT1cwcSLg&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
+3. **Kidney Disease Classification** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=86BKEv0X2xU)
 
 ## 11. Data Science interview questions (76 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-&si=FnzzCeNW2Aj6TK6V)
 
-## 12. Data Science Tracker Sheet For Learning:
-https://drive.google.com/file/d/18doA_wMja2nAawcE6imIcfnEMf-Pir2n/view
-
-## 13. Github Profile
+## 12. Github Profile
 1. Amazing Guidelines For Creating GitHub Profiles For Data Scientist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/HZFDFWShk4I?si=pKJO0yMrLbV3yhyr)
 2. What Should Be A Proper Structure Of Your Data Science Projects In Github?: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/QAVrSm-NiBo?si=He7YDy86pn2miIwt)
