@@ -94,6 +94,8 @@ Different Ways Of Creating Python Environment In Data Science Projects- Conda,Vi
 
 ## 11. Data Science interview questions (76 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-&si=FnzzCeNW2Aj6TK6V)
 
+## 12. Product Sense/metric interview questions
+
 ## 12. Github Profile
 1. Amazing Guidelines For Creating GitHub Profiles For Data Scientist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/HZFDFWShk4I?si=pKJO0yMrLbV3yhyr)
 2. What Should Be A Proper Structure Of Your Data Science Projects In Github?: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/QAVrSm-NiBo?si=He7YDy86pn2miIwt)
