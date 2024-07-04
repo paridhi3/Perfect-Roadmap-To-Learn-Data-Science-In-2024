@@ -50,7 +50,9 @@ Companies:
 2. Mongodb (7 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I)
 3. Apache Cassandra Database: [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://cassandra.apache.org/_/index.html )
 
-## 7. Important Frameworks for Production Deployments<br>
+## 7. Web Scraping
+
+## 8. Important Frameworks for Production Deployments<br>
 Different Ways Of Creating Python Environment In Data Science Projects- Conda,Virtualenv,Python: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/bf7pCxj6mEg?si=Vv8WWFsvqSKFXy8Z)
 - Flask Detailed Playlist In English (10 videos):[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc)
 - Flask One Shot Hindi: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=KF-rDqQfqz0)
@@ -59,7 +61,7 @@ Different Ways Of Creating Python Environment In Data Science Projects- Conda,Vi
 - BentoML (1 video): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=i_FtfdOKa2M)
 - MLflow and Dagshub (1 video): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=qdcHHrsXA48)
 
-## 8. MLOPS (Machine Learning Operation)
+## 9. MLOPS (Machine Learning Operation)
 **Live MLOPS Playlist** : [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVOk1pRcOCaG5xtXxgMalpIe)
 1. Github Action CI/CD pipelines (text summarization) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/features/actions) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=p7V4Aa7qEpw&list=PLZoTAELRMXVOjQdyqlCmOtq1nZnSsWvag&index=3)
 2. Circle CI [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://circleci.com/docs/)
@@ -74,7 +76,7 @@ Different Ways Of Creating Python Environment In Data Science Projects- Conda,Vi
 11. DVC (1 video) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://dvc.org/)[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=mHQPzVse2oA)
 12. Dockers (1 video) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=8vmKtS8W7IQ)
 
-## 9. Detailed Generative AI And LLM Playlist
+## 10. Detailed Generative AI And LLM Playlist
 - Generative AI On AWS: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVP5zpBfH7pab4aB1LbmCM1z&si=GT8AvvgWXObKnSNZ) 
 - Finetuning LLM: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3&si=zGpRyC02rGoG6_SY)
 - Updated Langchain (tutorials) (15 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ)
@@ -86,16 +88,16 @@ Different Ways Of Creating Python Environment In Data Science Projects- Conda,Vi
 - Google Gemini (12 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb)
 - Complete Langchain Course For Generative AI In 3 Hours: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=swCPic00c30&ab_channel=KrishNaik)<br><br>
 
-## 10. Machine Learning, Deep Learning, and NLP Projects
+## 11. Machine Learning, Deep Learning, and NLP Projects
 **End To End ML Projects Playlist In English (21 videos):** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG)
 1. **End-to-End ML Project Implementation with Dockers, GitHub Action** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=MJ1vWb1rGwM)
 2. **Langchain Open AI Project** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=_FpT1cwcSLg&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
 3. **Kidney Disease Classification** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=86BKEv0X2xU)
 
-## 11. Data Science interview questions (76 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-&si=FnzzCeNW2Aj6TK6V)
+## 12. Data Science interview questions (76 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-&si=FnzzCeNW2Aj6TK6V)
 
-## 12. Product Sense/metric interview questions
+## 13. Product Sense/metric interview questions
 
-## 12. Github Profile
+## 14. Github Profile
 1. Amazing Guidelines For Creating GitHub Profiles For Data Scientist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/HZFDFWShk4I?si=pKJO0yMrLbV3yhyr)
 2. What Should Be A Proper Structure Of Your Data Science Projects In Github?: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/QAVrSm-NiBo?si=He7YDy86pn2miIwt)
