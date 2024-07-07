@@ -51,6 +51,8 @@ Companies:
 3. Mongodb (7 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I)
 4. Apache Cassandra Database: [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://cassandra.apache.org/_/index.html )
 
+<hr>
+
 ## 7. Web Scraping
 
 ## 8. Important Frameworks for Production Deployments<br>
