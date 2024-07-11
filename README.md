@@ -95,7 +95,7 @@ Different Ways Of Creating Python Environment In Data Science Projects- Conda,Vi
 **End To End ML Projects Playlist In English (21 videos):** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG)
 1. **End-to-End ML Project Implementation with Dockers, GitHub Action (deployed to Heroku)** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=MJ1vWb1rGwM)
 2. **Langchain Open AI Project** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=_FpT1cwcSLg&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
-3. **Kidney Disease Classification** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=86BKEv0X2xU)
+3. **Complete End to End Deep Learning Project With MLFLOW,DVC And Deployment (Kidney Disease Classification)** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=86BKEv0X2xU)
 
 ## 12. Data Science Interview
 1. Data Science interview questions (76 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-&si=FnzzCeNW2Aj6TK6V)
