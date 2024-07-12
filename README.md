@@ -69,15 +69,14 @@ Different Ways Of Creating Python Environment In Data Science Projects- Conda,Vi
 1. Github Action CI/CD pipelines (text summarization) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/features/actions) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=p7V4Aa7qEpw&list=PLZoTAELRMXVOjQdyqlCmOtq1nZnSsWvag&index=3)
 2. Circle CI [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://circleci.com/docs/)
 3. Kubeflow [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.kubeflow.org/docs/)
-4. MLflow (1 video) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://mlflow.org/docs/latest/index.html)
-5. Deployment Technqiues In AWS,AZURE, GCP,Dockers And Kubernetes 
-6. Evidently AI (1 video) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.evidentlyai.com/) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=cgc3dSEAel0)
-7. Grafana(Monitoring) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://grafana.com/)
-8. AirFlow [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://airflow.apache.org/)
-9. BentoML (1 video) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=i_FtfdOKa2M)
-10. AWS Sagemaker (1 video)  [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=Le-A72NjaWs&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=16)
-11. DVC (1 video) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://dvc.org/)[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=mHQPzVse2oA)
-12. Dockers (1 video) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=8vmKtS8W7IQ)
+4. MLflow (1 video) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://mlflow.org/docs/latest/index.html) 
+5. Evidently AI (1 video) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.evidentlyai.com/) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=cgc3dSEAel0)
+6. Grafana(Monitoring) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://grafana.com/)
+7. AirFlow [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://airflow.apache.org/)
+8. BentoML (1 video) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=i_FtfdOKa2M)
+9. AWS Sagemaker (1 video)  [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=Le-A72NjaWs&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=16)
+10. DVC (1 video) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://dvc.org/)[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=mHQPzVse2oA)
+11. Complete Dockers For Data Science Tutorial In One Shot (1 video) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=8vmKtS8W7IQ)
 
 ## 10. Detailed Generative AI And LLM Playlist
 - Generative AI On AWS: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVP5zpBfH7pab4aB1LbmCM1z&si=GT8AvvgWXObKnSNZ) 
