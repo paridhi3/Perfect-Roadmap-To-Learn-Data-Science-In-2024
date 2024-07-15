@@ -91,10 +91,12 @@ Different Ways Of Creating Python Environment In Data Science Projects- Conda,Vi
 - Complete Langchain Course For Generative AI In 3 Hours: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=swCPic00c30&ab_channel=KrishNaik)<br><br>
 
 ## 11. Machine Learning, Deep Learning, and NLP Projects
-**End To End ML Projects Playlist In English (21 videos):** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG)
+**End To End ML Projects Playlist In English (21 videos):** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG)<br>
+**End To End Data Science Projects Hindi (used templates etc):** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLTDARY42LDV7jzL_f68SY-eOQ9tY2lYvR&si=UTU8N6bioVbJPwI1)<br>
+**Complete End to End Deep Learning Project With MLFLOW,DVC And Deployment (Kidney Disease Classification)** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=86BKEv0X2xU)
 1. **End-to-End ML Project Implementation with Dockers, GitHub Action (deployed to Heroku)** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=MJ1vWb1rGwM)
 2. **Langchain Open AI Project** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=_FpT1cwcSLg&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
-3. **Complete End to End Deep Learning Project With MLFLOW,DVC And Deployment (Kidney Disease Classification)** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=86BKEv0X2xU)
+
 
 ## 12. Data Science Interview
 1. Data Science interview questions (76 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-&si=FnzzCeNW2Aj6TK6V)
